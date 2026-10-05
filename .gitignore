@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+app_backup*
+app_before*
+app_broken*
+shop_backup*
+shop_before*
+.env
